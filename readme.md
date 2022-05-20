@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Simple Slide Transition/h1>
+  <h1>Simple Slide Transition</h1>
   
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
@@ -16,9 +16,9 @@
 
   </div border="1">
   <h2 align="left">Versão para computador</h2>
-  <img src="https://user-images.githubusercontent.com/17308374/169597980-bfb0133a-b8c7-4381-ba0d-0eda2ded997f.png">
+  <img src="https://user-images.githubusercontent.com/17308374/169598340-beb9bc48-494b-471b-889d-11c8509700de.png">
   <h2 align="left">Versão para tablet / Smartphone</h2>
-  <img src="https://user-images.githubusercontent.com/17308374/169314126-0242d297-d482-40e2-b955-d04c0c7d3ccb.png">
+  <img src="https://user-images.githubusercontent.com/17308374/169598395-ba797d4e-c20a-4eab-a735-ff7951436ee1.png">
   </div>
   
  <strong>Links para o projeto:</strong>
