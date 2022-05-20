@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Simple Slide Transition</h1>
+  <h1>Simple Slider Transition</h1>
   
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
@@ -10,8 +10,8 @@
 </p>
   
   <div align="left">
-  Galeria de imagens totalmente responsiva, foi desenvolvida utilizando CSS Flexbox e um pouco de JavaScript(para a troca de imagens). 
-    Todo o design da galeria foi feito utilizando o figma. As imagens foram retiradas do site Pexels. Você pode conferir todos os detalhes abaixo😀. 
+  Slide de imagens totalmente responsivo, foi desenvolvido utilizando CSS Flexbox e JavaScript. 
+    Todo o design ddo Slider foi feito utilizando o figma. As imagens foram retiradas do site Pexels. Você pode conferir todos os detalhes abaixo😀. 
 
 
   </div border="1">
@@ -23,8 +23,8 @@
   
  <strong>Links para o projeto:</strong>
 
-Página: [ver online](https://bit.ly/3a4qqyd)
+Página: [ver online](https://simpleslidetransition.netlify.app)
 <br>
-Design: [Figma](https://bit.ly/38DJmUi)
+Design: [Figma]([https://bit.ly/38DJmUi](https://www.figma.com/file/E4fxChdSTtBGYjDFmgFJNo/Untitled?node-id=0%3A1))
 <br>
 imagens: [pexels.com](https://www.pexels.com/pt-br/procurar/city/)
