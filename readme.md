@@ -25,6 +25,6 @@
 
 Página: [ver online](https://simpleslidetransition.netlify.app)
 <br>
-Design: [Figma]([https://bit.ly/38DJmUi](https://www.figma.com/file/E4fxChdSTtBGYjDFmgFJNo/Untitled?node-id=0%3A1))
+Design: [Figma](https://www.figma.com/file/E4fxChdSTtBGYjDFmgFJNo/Untitled?node-id=0%3A1)
 <br>
 imagens: [pexels.com](https://www.pexels.com/pt-br/procurar/city/)
